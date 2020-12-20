@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Sorry, most projects are currently private. Check back later!
+
 <!--
 **varrix/varrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
