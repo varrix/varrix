@@ -3,9 +3,6 @@
 Hey! My name is Logan Speck and I'm a Software Engineer based out of Ontario Canada. I'm focused on Developer Operations with an interest in Systems Architecture.
 
 #### Technologies I work with:
-![](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![](https://img.shields.io/badge/groovy-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-
 [![](https://img.shields.io/badge/java-339999?style=for-the-badge&logo=java&logoColor=white)](https://adoptopenjdk.net)
 [![](https://img.shields.io/badge/bash-400f13?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![](https://img.shields.io/badge/groovy-4298b8?style=for-the-badge&logo=apache-groovy&logoColor=white)](https://groovy-lang.org/)
