@@ -15,6 +15,6 @@ as well as... "HashiStack", Docker, MariaDB, Redis, Jenkins, GCP, and more!
 Email: `logan.d.speck@gmail.com`
 
 ---
-*Sorry, most projects are currently private (which causes inaccurate stats below). Check back later!*
+*Sorry, most projects are currently private. Check back later!*
 
 ![](https://github-readme-stats.vercel.app/api?username=varrix&show_icons=true&count_private=true&theme=onedark)
