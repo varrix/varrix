@@ -1,6 +1,6 @@
 ### About
 
-Hey! My name is Logan Speck and I'm a Software Engineer based out of Ontario Canada. I'm focused on Developer Operations with an interest in Systems Architecture.
+Hey! My name is Logan Speck and I'm a Software Developer based out of Ontario Canada. I'm focused on Developer Operations with an interest in Systems Architecture.
 
 #### Technologies I work with:
 [![](https://img.shields.io/badge/java-339999?style=for-the-badge&logo=java&logoColor=white)](https://adoptopenjdk.net)
