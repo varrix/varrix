@@ -18,4 +18,4 @@ Email: `logan.d.speck@gmail.com`
 ---
 *Sorry, most projects are currently private. Check back later!*
 
-![](https://github-readme-stats.vercel.app/api?username=varrix&show_icons=true&count_private=true&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=varrix&show_icons=true&count_private=true)
