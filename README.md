@@ -1,3 +1,5 @@
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 <p align="center">
     <img src="https://gist.github.com/deepakbhamla/acd63578b13556b01c3fa9a663e643f5/raw/7fdb456c84df6d70294e673ecbde0420a5c366f8/hello.gif" align="center" width="700" height="450"
 </p>
