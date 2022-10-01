@@ -5,7 +5,7 @@
 </p>
   
 ## 🧙‍♂️ About Me
-Hey! Welcome to my corner little corner of GitHub! My name is Logan Speck and I'm a Software Developer based out of Ontario Canada. I'm focused on Developer Operations with an interest in Systems Architecture.
+Hey! Welcome to my little corner of GitHub! My name is Logan Speck and I'm a Software Developer based out of Ontario Canada. I'm focused on Developer Operations with an interest in Systems Architecture.
 
 ## 👾 Technologies I Work With
 [![](https://img.shields.io/badge/java-2f80ed?style=for-the-badge&logo=java&logoColor=white)](https://adoptopenjdk.net)
